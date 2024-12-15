@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominic
 - 👀 I’m interested in learning and becoming a better programmer than I was yesterday.
-- 🌱 I’m currently learning Design Patterns / Clean Code Principles
+- 🌱 I’m currently learning Design Patterns
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me dominicbell30@outlook.com
 
